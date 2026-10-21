@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/documentacion_proyecto_ud1.iml" filepath="$PROJECT_DIR$/.idea/documentacion_proyecto_ud1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proyecto-base-maven-gestor-incidencias/gestor-incidencias.iml" filepath="$PROJECT_DIR$/proyecto-base-maven-gestor-incidencias/gestor-incidencias.iml" />
     </modules>
   </component>
 </project>

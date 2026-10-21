@@ -4,12 +4,19 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
 
-
+/**
+ * Clase prinicipal del proyecto de gestión de incidencias
+ * Admite argumentos para ejecutarase o un menu interactivo.
+ */
 public final class App {
 
     private App() {
     }
-
+    /**
+     * Arranca la ejecucion del proyecto.
+     *
+     * @param args operación a ejecutar y sus parámetros (si está vacío, se abre el menú interactivo)
+     */
     public static void main(String[] args) {
         GestorIncidencias gestor = new GestorIncidencias();
 
